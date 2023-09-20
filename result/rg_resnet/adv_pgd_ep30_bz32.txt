@@ -1,0 +1,68 @@
+当前日期为: 2023-09-06, 时间: 12:21:41
+PGD攻击...
+第1次攻击, 模型 RgResNet, 数据集 CiFar10
+模型参数所在位置
+../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 9197 / 10112 = 90.95
+Epsilon: 0.05	Test Accuracy = 5790 / 10112 = 57.26
+Epsilon: 0.1	Test Accuracy = 3048 / 10112 = 30.14
+Epsilon: 0.15	Test Accuracy = 1805 / 10112 = 17.85
+Epsilon: 0.2	Test Accuracy = 1215 / 10112 = 12.02
+Epsilon: 0.25	Test Accuracy = 870 / 10112 = 8.60
+Epsilon: 0.3	Test Accuracy = 676 / 10112 = 6.69
+第2次攻击, 模型 RgResNet, 数据集 CiFar10
+模型参数所在位置
+../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone2.pth
+Epsilon: 0.01	Test Accuracy = 9141 / 10112 = 90.40
+Epsilon: 0.05	Test Accuracy = 5794 / 10112 = 57.30
+Epsilon: 0.1	Test Accuracy = 3178 / 10112 = 31.43
+Epsilon: 0.15	Test Accuracy = 2004 / 10112 = 19.82
+Epsilon: 0.2	Test Accuracy = 1419 / 10112 = 14.03
+Epsilon: 0.25	Test Accuracy = 1013 / 10112 = 10.02
+Epsilon: 0.3	Test Accuracy = 752 / 10112 = 7.44
+第3次攻击, 模型 RgResNet, 数据集 CiFar10
+模型参数所在位置
+../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone3.pth
+Epsilon: 0.01	Test Accuracy = 8729 / 10112 = 86.32
+Epsilon: 0.05	Test Accuracy = 5908 / 10112 = 58.43
+Epsilon: 0.1	Test Accuracy = 3331 / 10112 = 32.94
+Epsilon: 0.15	Test Accuracy = 2018 / 10112 = 19.96
+Epsilon: 0.2	Test Accuracy = 1294 / 10112 = 12.80
+Epsilon: 0.25	Test Accuracy = 926 / 10112 = 9.16
+Epsilon: 0.3	Test Accuracy = 666 / 10112 = 6.59
+
+
+
+PGD - 10
+当前日期为: 2023-09-06, 时间: 20:39:06
+PGD攻击...
+第1次攻击, 模型 RgResNet, 数据集 CiFar10
+模型参数所在位置
+../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 9219 / 10112 = 91.17
+Epsilon: 0.05	Test Accuracy = 5696 / 10112 = 56.33
+Epsilon: 0.1	Test Accuracy = 2965 / 10112 = 29.32
+Epsilon: 0.15	Test Accuracy = 1815 / 10112 = 17.95
+Epsilon: 0.2	Test Accuracy = 1216 / 10112 = 12.03
+Epsilon: 0.25	Test Accuracy = 860 / 10112 = 8.50
+Epsilon: 0.3	Test Accuracy = 643 / 10112 = 6.36
+第2次攻击, 模型 RgResNet, 数据集 CiFar10
+模型参数所在位置
+../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone2.pth
+Epsilon: 0.01	Test Accuracy = 9152 / 10112 = 90.51
+Epsilon: 0.05	Test Accuracy = 5785 / 10112 = 57.21
+Epsilon: 0.1	Test Accuracy = 3170 / 10112 = 31.35
+Epsilon: 0.15	Test Accuracy = 2038 / 10112 = 20.15
+Epsilon: 0.2	Test Accuracy = 1391 / 10112 = 13.76
+Epsilon: 0.25	Test Accuracy = 1002 / 10112 = 9.91
+Epsilon: 0.3	Test Accuracy = 775 / 10112 = 7.66
+第3次攻击, 模型 RgResNet, 数据集 CiFar10
+模型参数所在位置
+../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone3.pth
+Epsilon: 0.01	Test Accuracy = 8708 / 10112 = 86.12
+Epsilon: 0.05	Test Accuracy = 5940 / 10112 = 58.74
+Epsilon: 0.1	Test Accuracy = 3363 / 10112 = 33.26
+Epsilon: 0.15	Test Accuracy = 2020 / 10112 = 19.98
+Epsilon: 0.2	Test Accuracy = 1302 / 10112 = 12.88
+Epsilon: 0.25	Test Accuracy = 931 / 10112 = 9.21
+Epsilon: 0.3	Test Accuracy = 676 / 10112 = 6.69

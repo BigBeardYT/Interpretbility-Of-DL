@@ -1,0 +1,6 @@
+第1次预测, 模型: SpResNet, 数据集: CiFar10
+模型参数所在位置: ../trained_model/CiFar10_SpResNet_PGD_train_bz32_ep30_lr0.01_seedNone1.pth
+预测准确率为: 7714 / 10000 = 77.14
+第2次预测, 模型: SpResNet, 数据集: CiFar10
+模型参数所在位置: ../trained_model/CiFar10_SpResNet_PGD_train_bz32_ep30_lr0.01_seedNone2.pth
+预测准确率为: 7505 / 10000 = 75.05

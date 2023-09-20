@@ -1,0 +1,9 @@
+第1次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone1.pth
+预测准确率为: 8327 / 10000 = 83.27
+第2次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone2.pth
+预测准确率为: 8345 / 10000 = 83.45
+第3次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../trained_model/CiFar10_RgResNet_PGD_train_bz32_ep30_lr0.01_seedNone3.pth
+预测准确率为: 7639 / 10000 = 76.39

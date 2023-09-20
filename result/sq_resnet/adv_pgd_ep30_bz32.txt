@@ -1,0 +1,12 @@
+当前日期为: 2023-09-06, 时间: 12:22:47
+PGD攻击...
+第1次攻击, 模型 SpResNet, 数据集 CiFar10
+模型参数所在位置
+../trained_model/CiFar10_SpResNet_PGD_train_bz32_ep30_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 9889 / 10016 = 98.73
+Epsilon: 0.05	Test Accuracy = 9259 / 10016 = 92.44
+Epsilon: 0.1	Test Accuracy = 8174 / 10016 = 81.61
+Epsilon: 0.15	Test Accuracy = 7192 / 10016 = 71.81
+Epsilon: 0.2	Test Accuracy = 6516 / 10016 = 65.06
+Epsilon: 0.25	Test Accuracy = 6001 / 10016 = 59.91
+Epsilon: 0.3	Test Accuracy = 5586 / 10016 = 55.77
